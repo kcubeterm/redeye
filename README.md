@@ -18,7 +18,17 @@ git clone https://github.com/kcubeterm/redeye
 cd redeye
 bash redeye.sh
 ```
+### Installation in Termux
+```
+pkg upgrade
+pkg install php
+pkg install wget
 
+git clone https://github.com/kcubeterm/redeye
+cd redeye
+bash redeye.sh
+
+```
 
 ### 
 ### credit
